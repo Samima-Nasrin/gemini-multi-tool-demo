@@ -8,6 +8,7 @@ A simple **Streamlit** web app powered by **Google’s Gemini API**, built to ha
 
 - **Text Q&A** — Ask any question and get instant AI-powered answers.
 - **Image + Prompt Analysis** — Upload an image, optionally add a text prompt, and get detailed AI insights.
+- **Conversational Q&A Chatbot** — Text Q&A that keeps track of conversation, saving chat history.
 - **Fast & Lightweight** — Uses `gemini-2.5-flash` for quick responses.
 - **Simple UI** — Choose your mode from a clean main menu.
 - **Secure Keys** — API key stored in `.env` for local dev, or Streamlit Cloud secrets for deployment.
